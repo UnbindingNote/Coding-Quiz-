@@ -1,5 +1,5 @@
 // list of all questions, choices, and answers
-var questionArray = [
+var questions = [
   {
     title:
     '1',
@@ -63,3 +63,5 @@ var questionArray = [
     answer: 'console.log',
   },
 ];
+
+var herpDerp = [{A}, ]
