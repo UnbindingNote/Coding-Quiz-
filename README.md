@@ -1,6 +1,6 @@
 # module-4-challenge
 ```
-full webpage, with a timer that deducts time on wrong answers and keeps a score of correct answers.
+Front-end webpage, with a timer that deducts time on wrong answers and keeps a score of correct answers.
 questions need to appear and disappear as user moves through them
 ```
 
